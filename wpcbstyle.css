@@ -1,0 +1,47 @@
+
+    /* set dimensions, alignment, background-color for ad space */
+    .hopfeed_div {
+        padding:            0;
+        margin:             0;
+        text-align:         left;
+        background-color:   #FFFFFF;
+    }
+
+    /* set dimensions, alignment, background-color for ad space */
+    .hopfeed_header {
+        font-size:          7pt;
+        font-weight: 		bold;
+        font-family:        Verdana, Arial, Helvetica, Sans Serif;
+    }
+
+    /* set the <ul> display format and margins */
+    .hopfeed_ul {
+        list-style:       	none;
+        margin:             0;
+        padding:            0;
+    }
+
+    /* set the <li> display format and margins */
+    .hopfeed_li {
+        margin:             0;
+        padding:            0;
+    }
+
+    /* set the normal title link font */
+    .hopfeed_link a{
+        font-size:          9pt;
+        font-family:        Verdana, Arial, Helvetica, Sans Serif;
+        font-weight:        bold;
+        color:              #3300FF;
+    }
+
+    /* set the mouseover title link font */
+    .hopfeed_link a:hover {
+        color:              #3300FF;
+    }
+
+    /* set the description font */
+    .hopfeed_desc {
+        font-size:          8pt;
+        color:              #000000;
+    }
